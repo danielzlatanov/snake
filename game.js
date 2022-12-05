@@ -16,9 +16,9 @@ function main(currentTime) {
 	if (gameOver) {
 		if (
 			confirm(`You lost.
-Please refresh the page to start over.`)
+Press OK to restart the game.`)
 		) {
-			window.location = '/';
+			window.location = '/Snake';
 		}
 		return;
 	}
