@@ -15,8 +15,8 @@ const gameBoard = document.getElementById('game-board');
 function main(currentTime) {
 	if (gameOver) {
 		if (
-			confirm(`Game Over.
-Press OK to restart the game.`)
+			confirm(`You lost.
+Please refresh the page to start over.`)
 		) {
 			window.location = '/';
 		}
