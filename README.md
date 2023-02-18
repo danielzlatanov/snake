@@ -14,10 +14,10 @@ Your goal is to control the snake's movement and collect food in a grid layout. 
 
 You can control the snake with the following keys:
 
-- `Up Arrow` *for* `up`
-- `Down Arrow` *for* `down`
-- `Left Arrow` *for* `left`
-- `Right Arrow` *for* `right`
+- `Arrow Up` *for* `up`
+- `Arrow Down` *for* `down`
+- `Arrow Left` *for* `left`
+- `Arrow Right` *for* `right`
 
 The game will be started after pressing `any` arrow key.
 
